@@ -1,6 +1,8 @@
 # Three2One Pad
 
-
+|![](pic/info0.png)|![](pic/info1.png)|
+|---|---|
+|![](pic/info-p1.png)|![](pic/info-p2.png)|
 
 ## Description
 
