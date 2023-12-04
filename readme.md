@@ -106,7 +106,7 @@ This is a simple repostiory, it would be opensource all files on here, check fil
 
 - [QMK Firmware](https://qmk.fm/).
 - [VIAL](https://get.vial.today/).
-- [KiCAD](https://www.kicad.org/) version 7.0.5.
+- [KiCAD](https://www.kicad.org/) version `7.0.5.`
 - [JLCPCB](https://jlcpcb.com/).
 - [AutoDesk Fusion360](https://www.autodesk.com/products/fusion-360/free-trial).
 - Taiwan [Tatung University](https://www.ttu.edu.tw/) - [Department of Mechanical and Materials Engineering](https://mme.ttu.edu.tw/)
