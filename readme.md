@@ -29,13 +29,13 @@ This is a simple repostiory, it would be opensource all files on here, check fil
 |---|---|---|
 |PCB|1|-|
 |MCU|1|RP2040 `SuperMini`/`Zero`|
-|Cases|1|Acrylic or 3DP|
+|Cases|1|`Acrylic` or `3DP`|
 |Hotswap Socket|8-12|`MX` version|
 |Diodes `1N4148`|12|`SOD-123` or `DO-35` version|
 |`M2x5mm` Screw|12|for `Arcylic case`|
 |`M2x6mm` Spacer|6|for `Arcylic case`|
 |Rotray Encoder `EC-11`|0-4|`Personal Option`|
-|Rubber feets|4|ø8mm, H1mm|
+|Rubber feets|4|`ø8mm`, `H1mm`|
 
 ### Guide.1: PCB part
 
