@@ -14,7 +14,6 @@ This is a simple repostiory, it would be opensource all files on here, check fil
 
 ![](pic/layout.png)
 ![](pic/vial.png)
-c
 
 ## PCB & 3D module
 
@@ -73,7 +72,7 @@ c
 
 > **Note**
 >
-> RP2040 SuperMini/Zero have same bootloader way, you need to keep pushing switch on the MCU `before` plug USB-C cable to the PC. After that, you can see a disk on your device, then put `.uf2` firmware file into disk.
+> RP2040 SuperMini/Zero have same `bootloader` way, you need to keep pushing switch on the MCU `before` plug USB-C cable to the PC. After that, you can see a `disk` on your device, then put `.uf2` firmware file into disk.
 
 ### Guide.2: Case part
 
