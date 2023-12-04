@@ -29,13 +29,13 @@ c
 |Item|Amount|Note|
 |---|---|---|
 |PCB|1|-|
-|MCU|1|RP2040 SuperMini/Zero|
+|MCU|1|RP2040 `SuperMini`/`Zero`|
 |Cases|1|Acrylic or 3DP|
-|Hotswap Socket|8-12|MX version|
-|Diodes 1N4148|12|SOD-123 or DO-35 version|
-|M2x5mm Screw|12|for Arcylic case|
-|M2x6mm Spacer|6|for Arcylic case|
-|Rotray Encoder EC-11|1-4|Personal Option|
+|Hotswap Socket|8-12|`MX` version|
+|Diodes `1N4148`|12|`SOD-123` or `DO-35` version|
+|`M2x5mm` Screw|12|for `Arcylic case`|
+|`M2x6mm` Spacer|6|for `Arcylic case`|
+|Rotray Encoder `EC-11`|0-4|`Personal Option`|
 |Rubber feets|4|ø8mm, H1mm|
 
 ### Guide.1: PCB part
@@ -73,7 +73,7 @@ c
 
 > **Note**
 >
-> RP2040 SuperMini/Zero have same bootloader way, you need to keep pushing switch on the MCU before plug USB-C cable to the PC. After that, you can see a disk on your device, then put .uf2 firmware file into disk.
+> RP2040 SuperMini/Zero have same bootloader way, you need to keep pushing switch on the MCU `before` plug USB-C cable to the PC. After that, you can see a disk on your device, then put `.uf2` firmware file into disk.
 
 ### Guide.2: Case part
 
